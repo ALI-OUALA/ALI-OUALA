@@ -1,0 +1,59 @@
+<svg width="1100" height="420" viewBox="0 0 1100 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="moonGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#F7E7B4" stop-opacity="0.95"/>
+      <stop offset="55%" stop-color="#F7E7B4" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#F7E7B4" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F7E7B4"/>
+      <stop offset="100%" stop-color="#9B7E46"/>
+    </linearGradient>
+    <style>
+      .bg { fill: #0d1117; }
+      .title { font: 700 52px 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace; fill: #F7E7B4; letter-spacing: 4px; }
+      .sub { font: 400 18px 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace; fill: #C9D1D9; letter-spacing: 1px; }
+      .tiny { font: 400 14px 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace; fill: #8B949E; letter-spacing: 1px; }
+      .star { fill: #F7E7B4; opacity: .75; animation: pulse 3.6s ease-in-out infinite; transform-origin: center; }
+      .star:nth-of-type(2n) { animation-delay: .8s; }
+      .star:nth-of-type(3n) { animation-delay: 1.6s; }
+      .dot { fill: #C9D1D9; opacity: .45; }
+      .orbit { stroke: #F7E7B4; stroke-opacity: .22; stroke-width: 1.2; }
+      @keyframes pulse { 0%,100% { opacity: .25; transform: scale(.85); } 50% { opacity: 1; transform: scale(1.12); } }
+    </style>
+  </defs>
+
+  <rect class="bg" width="1100" height="420" rx="28"/>
+
+  <circle cx="228" cy="150" r="86" fill="url(#moonGlow)" opacity="0.8"/>
+  <path d="M255 72C203 83 164 129 164 184C164 242 207 290 263 299C249 304 234 307 218 307C150 307 95 252 95 184C95 116 150 61 218 61C231 61 244 65 255 72Z" fill="url(#gold)"/>
+  <circle cx="242" cy="105" r="61" fill="#0d1117"/>
+
+  <ellipse class="orbit" cx="230" cy="190" rx="155" ry="62" transform="rotate(-17 230 190)"/>
+  <ellipse class="orbit" cx="230" cy="190" rx="190" ry="78" transform="rotate(-17 230 190)"/>
+
+  <circle class="dot" cx="75" cy="72" r="1.8"/>
+  <circle class="dot" cx="132" cy="346" r="1.4"/>
+  <circle class="dot" cx="391" cy="62" r="1.2"/>
+  <circle class="dot" cx="454" cy="314" r="1.8"/>
+  <circle class="dot" cx="694" cy="82" r="1.5"/>
+  <circle class="dot" cx="1018" cy="104" r="1.7"/>
+  <circle class="dot" cx="970" cy="335" r="1.5"/>
+  <circle class="dot" cx="790" cy="354" r="1.2"/>
+  <circle class="dot" cx="580" cy="58" r="1.2"/>
+  <circle class="dot" cx="88" cy="255" r="1.4"/>
+
+  <path class="star" d="M62 151L66 161L76 165L66 169L62 179L58 169L48 165L58 161Z"/>
+  <path class="star" d="M350 118L353 126L361 129L353 132L350 140L347 132L339 129L347 126Z"/>
+  <path class="star" d="M420 252L424 262L434 266L424 270L420 280L416 270L406 266L416 262Z"/>
+  <path class="star" d="M828 94L832 104L842 108L832 112L828 122L824 112L814 108L824 104Z"/>
+  <path class="star" d="M1010 252L1014 262L1024 266L1014 270L1010 280L1006 270L996 266L1006 262Z"/>
+  <path class="star" d="M720 300L723 308L731 311L723 314L720 322L717 314L709 311L717 308Z"/>
+
+  <text x="520" y="155" class="title">OUALA EDDINE</text>
+  <text x="522" y="196" class="sub">applied mathematics · ai systems · web products · design</text>
+  <text x="522" y="242" class="tiny">production websites / AI experiments / automation tools / client prototypes</text>
+
+  <line x1="522" y1="268" x2="965" y2="268" stroke="#F7E7B4" stroke-opacity="0.28"/>
+  <text x="522" y="304" class="sub">Dream to reach the stars. You will reach the moon.</text>
+</svg>
