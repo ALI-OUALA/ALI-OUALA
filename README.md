@@ -1,34 +1,16 @@
 <div align="center">
 
-<pre>
-.                    *                               .
-             +                         .
+<img src="./assets/hero.svg" alt="Animated ASCII moon profile header for Ouala Eddine" width="100%" />
 
-                         _..---.._
-                     .-'##########'-.
-                   .'###############  '.
-                  /#######..########    \
-                 ;###o#############       ;
-                 |###############         |
-                 |######o######           |
-                 |##########              |
-                 ;########               ;
-                  \######               /
-                   '.####            .'
-                     '-._________.-'
+<br />
 
-       *                         .                       +
-                         OUALA EDDINE
-              mathematics / ai / web / design
-</pre>
-
-<img src="./assets/orbit.svg" alt="Animated monochrome moon orbit" width="92%" />
-
-<a href="https://ouala.me"><b>Portfolio</b></a>
-·
-<a href="mailto:alioualaeddine@gmail.com"><b>Email</b></a>
-·
-<a href="https://github.com/ALI-OUALA"><b>GitHub</b></a>
+<samp>
+  <a href="https://ouala.me">portfolio</a>
+  ·
+  <a href="mailto:alioualaeddine@gmail.com">email</a>
+  ·
+  <a href="https://github.com/ALI-OUALA">github</a>
+</samp>
 
 </div>
 
@@ -36,7 +18,22 @@
 
 ## About
 
-Applied mathematics student at the **National Higher School of Mathematics** in Algeria, building production web products, AI experiments, automation tools, and design-led prototypes.
+Applied mathematics student at the **National Higher School of Mathematics** in Algeria.
+
+I build **production web products**, **AI experiments**, **automation tools**, and **design-led prototypes**.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Production</b><br />
+      Websites, landing pages, dashboards, SaaS interfaces, MVPs, academic portfolios, and client demos.
+    </td>
+    <td width="50%" valign="top">
+      <b>Experiments</b><br />
+      AI agents, reinforcement learning, speech-data pipelines, simulations, local models, and automation.
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -52,29 +49,30 @@ Applied mathematics student at the **National Higher School of Mathematics** in 
 
 ---
 
-## Work
+## Selected work
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Production</h3>
-      <p>Websites, landing pages, dashboards, SaaS interfaces, MVPs, academic portfolios, and client demos.</p>
+      <b><a href="https://github.com/ALI-OUALA/agario-rl-experiment">Agario RL Experiment</a></b><br />
+      PPO training, FastAPI/WebSockets, and a browser-based simulator.
     </td>
     <td width="50%" valign="top">
-      <h3>Experiments</h3>
-      <p>AI agents, reinforcement learning, speech-data pipelines, simulations, local models, and automation.</p>
+      <b><a href="https://github.com/ALI-OUALA/inspra-extension">Inspra Extension</a></b><br />
+      Converts web inspiration into reusable AI-agent design skills.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/ALI-OUALA/darija-tts-data-cleaning">Darija TTS Data Cleaning</a></b><br />
+      Algerian Darija alignment, segmentation, validation, and QC pipeline.
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/ALI-OUALA/conways-game-of-life">Conway's Game of Life</a></b><br />
+      Rust desktop simulation with toroidal grid logic.
     </td>
   </tr>
 </table>
-
----
-
-## Selected projects
-
-- **[Agario RL Experiment](https://github.com/ALI-OUALA/agario-rl-experiment)** — PPO training, FastAPI/WebSockets, and a browser-based simulator.
-- **[Inspra Extension](https://github.com/ALI-OUALA/inspra-extension)** — converts web inspiration into reusable AI-agent design skills.
-- **[Darija TTS Data Cleaning](https://github.com/ALI-OUALA/darija-tts-data-cleaning)** — Algerian Darija alignment, segmentation, validation, and QC pipeline.
-- **[Conway's Game of Life](https://github.com/ALI-OUALA/conways-game-of-life)** — Rust desktop simulation with toroidal grid logic.
 
 ---
 
@@ -85,6 +83,7 @@ Applied mathematics student at the **National Higher School of Mathematics** in 
 <img src="https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/Next.js-161B22?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-161B22?style=flat-square&logo=tailwindcss&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-161B22?style=flat-square&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/PyTorch-161B22?style=flat-square&logo=pytorch&logoColor=white" />
@@ -93,7 +92,6 @@ Applied mathematics student at the **National Higher School of Mathematics** in 
 <img src="https://img.shields.io/badge/Supabase-161B22?style=flat-square&logo=supabase&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-161B22?style=flat-square&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Vercel-161B22?style=flat-square&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=white" />
 
 </div>
 
@@ -106,13 +104,13 @@ Applied mathematics student at the **National Higher School of Mathematics** in 
 HTML · CSS · JavaScript · TypeScript · Python · Rust · C# · Dart · SQL
 
 **Web, mobile, and extensions**  
-React · Next.js · Vite · Tailwind CSS · shadcn/ui · GSAP · Framer Motion · WXT · Chrome MV3 Extensions · React Native · Expo · Flutter
+React · Next.js · Vite · Tailwind CSS · shadcn/ui · Radix UI · GSAP · Framer Motion · WXT · Chrome MV3 Extensions · React Native · Expo · Flutter
 
 **Backend and desktop**  
 Node.js · FastAPI · REST APIs · WebSockets · .NET 8 · Avalonia UI
 
 **AI, ML, and data**  
-PyTorch · NumPy · Matplotlib · Reinforcement Learning · PPO · WhisperX · TTS pipelines · Ollama · LM Studio · Chatterbox TTS · Stable Diffusion · Manim
+PyTorch · NumPy · Matplotlib · Reinforcement Learning · PPO · RNNs · LSTMs · WhisperX · TTS pipelines · Ollama · LM Studio · Chatterbox TTS · Stable Diffusion · Manim
 
 **Databases, auth, media, and deployment**  
 PostgreSQL · MongoDB · Supabase · Neon · Clerk · Cloudinary · Vercel · Netlify
