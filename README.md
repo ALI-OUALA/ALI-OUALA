@@ -22,6 +22,8 @@ Applied mathematics student at the **National Higher School of Mathematics** in 
 
 I build **production web products**, **AI experiments**, **automation tools**, and **design-led prototypes**.
 
+**Currently building:** **NQRA** — a peer-to-peer tutoring marketplace where Algerian university students can learn from one another and earn by teaching what they know.
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -44,7 +46,28 @@ Remote or Algeria-based.
 
 ---
 
-## Selected work
+## Production websites
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <b><a href="https://francoisberteloot.com">François Berteloot</a></b><br />
+      Academic website for a mathematics professor at the Institut de Mathématiques de Toulouse, with publications, CV, research material, multilingual content, and structured academic metadata.
+    </td>
+    <td width="33%" valign="top">
+      <b><a href="https://peter-stevenhagen.vercel.app">Peter Stevenhagen</a></b><br />
+      Editorial academic portfolio for a Leiden University number theorist, covering research, publications, international teaching, and institutional work.
+    </td>
+    <td width="33%" valign="top">
+      <b><a href="https://vroam.vercel.app">VROAM Hackathon</a></b><br />
+      Animated event experience for an Algerian telecom, mathematics, and AI hackathon focused on national roaming and student-built network solutions.
+    </td>
+  </tr>
+</table>
+
+---
+
+## Technical work
 
 <table>
   <tr>
@@ -166,13 +189,5 @@ Remote or Algeria-based.
 <img src="https://img.shields.io/badge/Gemini-161B22?style=flat-square&logo=googlegemini&logoColor=white" />
 <img src="https://img.shields.io/badge/Qwen_CLI-161B22?style=flat-square&logo=alibabacloud&logoColor=white" />
 <img src="https://img.shields.io/badge/NotebookLM-161B22?style=flat-square&logo=googlegemini&logoColor=white" />
-
-</div>
-
----
-
-<div align="center">
-
-<b>Dream to reach the stars. You will reach the moon.</b>
 
 </div>
