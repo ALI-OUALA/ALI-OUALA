@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-label="Ouala Eddine — applied mathematics, AI, web and design">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-label="Ouala Eddine — applied mathematics, AI, web and design">
 <defs>
   <style>
     .bg{fill:#0d1117}
@@ -7,6 +7,7 @@
     .title{font:700 52px ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;fill:#f0f6fc;letter-spacing:3px}
     .sub{font:400 17px ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;fill:#b1bac4;letter-spacing:1.5px}
     .meta{font:400 13px ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;fill:#7d8590;letter-spacing:1.25px}
+    .motto{font:400 14px ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;fill:#f0f6fc;letter-spacing:.7px}
     .star{font:16px ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;fill:#f0f6fc;animation:twinkle 4.6s ease-in-out infinite}
     .d1{animation-delay:.7s}.d2{animation-delay:1.8s}.d3{animation-delay:2.6s}
     .moon{animation:drift 8s ease-in-out infinite}
@@ -27,15 +28,15 @@
     <stop offset="1" stop-color="#f0f6fc" stop-opacity=".9"/>
   </linearGradient>
 </defs>
-<rect class="bg" width="1200" height="400" rx="24"/>
-<rect class="border" x=".5" y=".5" width="1199" height="399" rx="23.5"/>
+<rect class="bg" width="1200" height="430" rx="24"/>
+<rect class="border" x=".5" y=".5" width="1199" height="429" rx="23.5"/>
 
 <g aria-hidden="true">
   <text x="42" y="44" class="star">.</text>
   <text x="430" y="68" class="star d1">*</text>
-  <text x="505" y="306" class="star d2">.</text>
+  <text x="505" y="336" class="star d2">.</text>
   <text x="1130" y="84" class="star d3">+</text>
-  <text x="1035" y="330" class="star d1">*</text>
+  <text x="1035" y="360" class="star d1">*</text>
   <text x="796" y="48" class="star d2">.</text>
   <text x="1160" y="216" class="star d3">.</text>
   <text x="468" y="190" class="star d1">+</text>
@@ -70,11 +71,12 @@
 </g>
 
 <g class="intro">
-  <text x="575" y="143" class="title">OUALA EDDINE</text>
-  <text x="578" y="187" class="sub">MATH · AI · WEB · DESIGN</text>
-  <line x1="578" y1="216" x2="798" y2="216" class="rule"/>
-  <text x="578" y="255" class="meta">PRODUCTION PRODUCTS / TECHNICAL EXPERIMENTS</text>
-  <text x="578" y="289" class="meta">ALGIERS, ALGERIA</text>
-  <rect x="746" y="272" width="8" height="18" class="cursor"/>
+  <text x="575" y="137" class="title">OUALA EDDINE</text>
+  <text x="578" y="181" class="sub">MATH · AI · WEB · DESIGN</text>
+  <line x1="578" y1="210" x2="798" y2="210" class="rule"/>
+  <text x="578" y="249" class="meta">PRODUCTION PRODUCTS / TECHNICAL EXPERIMENTS</text>
+  <text x="578" y="283" class="meta">ALGIERS, ALGERIA</text>
+  <rect x="746" y="266" width="8" height="18" class="cursor"/>
+  <text x="578" y="322" class="motto">DREAM TO REACH THE STARS. YOU WILL REACH THE MOON.</text>
 </g>
 </svg>
