@@ -1,10 +1,28 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="Ouala Eddine — moon and stars profile header" width="100%" />
+<pre>
+        .                       *                       .
+                         .                 ✦
 
-<br />
+                         _..-""""-.._
+                     .-'::::::::::::'-.
+                   .'::::::::::::::::::'.
+                  /::::::::::::::..::::::\
+                 ;:::::::::::.::::::::::::;
+                 |::::::::::::::           |
+                 ;::::::::::               ;
+                  \:::::::                /
+                   '.::::              .'
+                     '-.          _.-'
+                        `--....--'
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=800&color=F7E7B4&center=true&vCenter=true&width=900&lines=Production-ready+web+products;AI+experiments+and+automation+tools;Client+prototypes+with+strong+visual+taste;Mathematical+thinking+turned+into+software" alt="Typing SVG" />
+          *                     OUALA EDDINE                 .
+                  mathematics · ai · web · design
+</pre>
+
+<img src="./assets/orbit.svg" alt="Animated white orbit" width="82%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2500&pause=850&color=FFFFFF&center=true&vCenter=true&width=860&lines=Production-ready+web+products;AI+experiments+and+automation;Client+prototypes+with+strong+visual+taste" alt="Typing SVG" />
 
 <br />
 
@@ -22,7 +40,7 @@
 
 Applied mathematics student at the **National Higher School of Mathematics** in Algeria.
 
-I build **production websites**, **AI experiments**, **automation tools**, and **client prototypes** with a focus on strong engineering, clean interfaces, and visual taste.
+I build **production websites**, **AI experiments**, **automation tools**, and **client prototypes**—combining engineering, mathematics, and design.
 
 ---
 
@@ -32,21 +50,11 @@ I build **production websites**, **AI experiments**, **automation tools**, and *
   <tr>
     <td width="50%" valign="top">
       <h3>Production</h3>
-      <ul>
-        <li>Academic and personal websites</li>
-        <li>Premium landing pages</li>
-        <li>Dashboards and SaaS interfaces</li>
-        <li>Startup MVPs and client demos</li>
-      </ul>
+      <p>Websites, landing pages, dashboards, SaaS interfaces, MVPs, and client demos.</p>
     </td>
     <td width="50%" valign="top">
       <h3>Experiments</h3>
-      <ul>
-        <li>AI agents and prompt systems</li>
-        <li>Reinforcement learning labs</li>
-        <li>TTS and speech-data pipelines</li>
-        <li>Simulations and automation workflows</li>
-      </ul>
+      <p>AI agents, reinforcement learning, speech-data pipelines, simulations, and automation.</p>
     </td>
   </tr>
 </table>
@@ -55,28 +63,10 @@ I build **production websites**, **AI experiments**, **automation tools**, and *
 
 ## Selected projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/ALI-OUALA/agario-rl-experiment">Agario RL Experiment</a></h3>
-      <p>RL lab with a local Agar.io-style simulator, PPO training, FastAPI/WebSockets, and a browser canvas runtime.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/ALI-OUALA/inspra-extension">Inspra Extension</a></h3>
-      <p>Chrome MV3 extension that turns web inspiration into reusable AI-agent-ready design skills.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/ALI-OUALA/darija-tts-data-cleaning">Darija TTS Data Cleaning</a></h3>
-      <p>Algerian Darija dataset pipeline for alignment, segmentation, validation, and QC reporting.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/ALI-OUALA/conways-game-of-life">Conway's Game of Life</a></h3>
-      <p>Rust desktop simulation using a minimal framebuffer and toroidal grid logic.</p>
-    </td>
-  </tr>
-</table>
+- **[Agario RL Experiment](https://github.com/ALI-OUALA/agario-rl-experiment)** — PPO training, FastAPI/WebSockets, and a browser-based simulator.
+- **[Inspra Extension](https://github.com/ALI-OUALA/inspra-extension)** — turns web inspiration into reusable AI-agent design skills.
+- **[Darija TTS Data Cleaning](https://github.com/ALI-OUALA/darija-tts-data-cleaning)** — Algerian Darija alignment, segmentation, validation, and QC pipeline.
+- **[Conway's Game of Life](https://github.com/ALI-OUALA/conways-game-of-life)** — Rust desktop simulation with toroidal grid logic.
 
 ---
 
@@ -84,59 +74,45 @@ I build **production websites**, **AI experiments**, **automation tools**, and *
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=F7E7B4" />
-<img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=F7E7B4" />
-<img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=F7E7B4" />
-<img src="https://img.shields.io/badge/Tailwind-111111?style=flat-square&logo=tailwindcss&logoColor=F7E7B4" />
-<img src="https://img.shields.io/badge/shadcn/ui-111111?style=flat-square&logo=shadcnui&logoColor=F7E7B4" />
-<img src="https://img.shields.io/badge/GSAP-111111?style=flat-square&logo=greensock&logoColor=F7E7B4" />
-<img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=F7E7B4" />
-<img src="https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi&logoColor=F7E7B4" />
-<img src="https://img.shields.io/badge/PyTorch-111111?style=flat-square&logo=pytorch&logoColor=F7E7B4" />
-<img src="https://img.shields.io/badge/Rust-111111?style=flat-square&logo=rust&logoColor=F7E7B4" />
-<img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=F7E7B4" />
-<img src="https://img.shields.io/badge/MongoDB-111111?style=flat-square&logo=mongodb&logoColor=F7E7B4" />
-<img src="https://img.shields.io/badge/Supabase-111111?style=flat-square&logo=supabase&logoColor=F7E7B4" />
-<img src="https://img.shields.io/badge/Neon-111111?style=flat-square&logo=neon&logoColor=F7E7B4" />
-<img src="https://img.shields.io/badge/Clerk-111111?style=flat-square&logo=clerk&logoColor=F7E7B4" />
-<img src="https://img.shields.io/badge/Cloudinary-111111?style=flat-square&logo=cloudinary&logoColor=F7E7B4" />
-<img src="https://img.shields.io/badge/Figma-111111?style=flat-square&logo=figma&logoColor=F7E7B4" />
-<img src="https://img.shields.io/badge/Photoshop-111111?style=flat-square&logo=adobephotoshop&logoColor=F7E7B4" />
-<img src="https://img.shields.io/badge/Illustrator-111111?style=flat-square&logo=adobeillustrator&logoColor=F7E7B4" />
-<img src="https://img.shields.io/badge/After%20Effects-111111?style=flat-square&logo=adobeaftereffects&logoColor=F7E7B4" />
-<img src="https://img.shields.io/badge/Vercel-111111?style=flat-square&logo=vercel&logoColor=F7E7B4" />
-<img src="https://img.shields.io/badge/Netlify-111111?style=flat-square&logo=netlify&logoColor=F7E7B4" />
-<img src="https://img.shields.io/badge/Cursor-111111?style=flat-square&logo=cursor&logoColor=F7E7B4" />
-<img src="https://img.shields.io/badge/Codex-111111?style=flat-square&logo=openai&logoColor=F7E7B4" />
+<img src="https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-161B22?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-161B22?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/shadcn/ui-161B22?style=flat-square&logo=shadcnui&logoColor=white" />
+<img src="https://img.shields.io/badge/GSAP-161B22?style=flat-square&logo=greensock&logoColor=white" />
+
+<br />
+
+<img src="https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-161B22?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-161B22?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Rust-161B22?style=flat-square&logo=rust&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-161B22?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-161B22?style=flat-square&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Neon-161B22?style=flat-square&logo=neon&logoColor=white" />
+
+<br />
+
+<img src="https://img.shields.io/badge/Figma-161B22?style=flat-square&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Photoshop-161B22?style=flat-square&logo=adobephotoshop&logoColor=white" />
+<img src="https://img.shields.io/badge/Illustrator-161B22?style=flat-square&logo=adobeillustrator&logoColor=white" />
+<img src="https://img.shields.io/badge/After%20Effects-161B22?style=flat-square&logo=adobeaftereffects&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-161B22?style=flat-square&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Netlify-161B22?style=flat-square&logo=netlify&logoColor=white" />
+<img src="https://img.shields.io/badge/Cursor-161B22?style=flat-square&logo=cursor&logoColor=white" />
+<img src="https://img.shields.io/badge/Codex-161B22?style=flat-square&logo=openai&logoColor=white" />
 
 </div>
 
 ---
 
-## Build map
+## Open to
 
-```txt
-frontend     landing pages · dashboards · animation · design systems
-backend      APIs · auth · storage · integrations · deployment
-ai           RL experiments · TTS pipelines · agents · automation
-visual       identity · typography · motion · product direction
-business     client prototypes · MVPs · validation demos
-math         abstraction · modeling · algorithmic reasoning
-```
-
----
-
-## GitHub signal
+`client websites` · `academic websites` · `product prototypes` · `AI tools` · `startup builds`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ALI-OUALA&bg_color=00000000&color=C9D1D9&line=F7E7B4&point=F7E7B4&area=true&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
+<br />
 
 <b>Dream to reach the stars. You will reach the moon.</b>
 
