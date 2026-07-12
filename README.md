@@ -39,13 +39,8 @@ I build **production web products**, **AI experiments**, **automation tools**, a
 
 ## Open to
 
-- **Frontend Developer / Creative Developer** roles
-- **Full-Stack Developer / Product Engineer** roles
-- **AI or Machine Learning Engineering internships**
-- **Freelance Web Designer & Developer** projects
-- **Startup MVP and product-prototype contracts**
-
-`remote internships` · `freelance contracts` · `startup collaborations`
+**Frontend / Product Engineering roles · AI/ML internships · selective freelance web projects**  
+Remote or Algeria-based.
 
 ---
 
@@ -76,52 +71,103 @@ I build **production web products**, **AI experiments**, **automation tools**, a
 
 ---
 
-## Core stack
+## Toolkit
 
 <div align="center">
 
+### Languages
+
+<img src="https://img.shields.io/badge/HTML5-161B22?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-161B22?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Rust-161B22?style=flat-square&logo=rust&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-161B22?style=flat-square&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-161B22?style=flat-square&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-161B22?style=flat-square&logo=postgresql&logoColor=white" />
+
+### Web development
+
 <img src="https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/Next.js-161B22?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind-161B22?style=flat-square&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-161B22?style=flat-square&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-161B22?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/shadcn/ui-161B22?style=flat-square&logo=shadcnui&logoColor=white" />
+<img src="https://img.shields.io/badge/Radix_UI-161B22?style=flat-square&logo=radixui&logoColor=white" />
+<img src="https://img.shields.io/badge/GSAP-161B22?style=flat-square&logo=greensock&logoColor=white" />
+<img src="https://img.shields.io/badge/Framer_Motion-161B22?style=flat-square&logo=framer&logoColor=white" />
+<img src="https://img.shields.io/badge/WXT-161B22?style=flat-square&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/Chrome_MV3-161B22?style=flat-square&logo=googlechrome&logoColor=white" />
+
+### Mobile and desktop
+
+<img src="https://img.shields.io/badge/React_Native-161B22?style=flat-square&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Expo-161B22?style=flat-square&logo=expo&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-161B22?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET_8-161B22?style=flat-square&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Avalonia_UI-161B22?style=flat-square&logo=dotnet&logoColor=white" />
+
+### Backend and APIs
+
+<img src="https://img.shields.io/badge/Node.js-161B22?style=flat-square&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-161B22?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-161B22?style=flat-square&logo=openapiinitiative&logoColor=white" />
+<img src="https://img.shields.io/badge/WebSockets-161B22?style=flat-square&logo=socketdotio&logoColor=white" />
+
+### AI, ML, and data
+
 <img src="https://img.shields.io/badge/PyTorch-161B22?style=flat-square&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/Rust-161B22?style=flat-square&logo=rust&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-161B22?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-161B22?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Reinforcement_Learning-161B22?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/PPO-161B22?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/RNNs-161B22?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/LSTMs-161B22?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/WhisperX-161B22?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/TTS_Pipelines-161B22?style=flat-square&logo=audacity&logoColor=white" />
+<img src="https://img.shields.io/badge/Ollama-161B22?style=flat-square&logo=ollama&logoColor=white" />
+<img src="https://img.shields.io/badge/LM_Studio-161B22?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Chatterbox_TTS-161B22?style=flat-square&logo=audacity&logoColor=white" />
+<img src="https://img.shields.io/badge/Stable_Diffusion-161B22?style=flat-square&logo=stabilityai&logoColor=white" />
+<img src="https://img.shields.io/badge/Manim-161B22?style=flat-square&logo=python&logoColor=white" />
+
+### Databases, auth, and infrastructure
+
 <img src="https://img.shields.io/badge/PostgreSQL-161B22?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-161B22?style=flat-square&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Supabase-161B22?style=flat-square&logo=supabase&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-161B22?style=flat-square&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Neon-161B22?style=flat-square&logo=neon&logoColor=white" />
+<img src="https://img.shields.io/badge/Clerk-161B22?style=flat-square&logo=clerk&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloudinary-161B22?style=flat-square&logo=cloudinary&logoColor=white" />
 <img src="https://img.shields.io/badge/Vercel-161B22?style=flat-square&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Netlify-161B22?style=flat-square&logo=netlify&logoColor=white" />
+
+### Design and creative production
+
+<img src="https://img.shields.io/badge/Figma-161B22?style=flat-square&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Photoshop-161B22?style=flat-square&logo=adobephotoshop&logoColor=white" />
+<img src="https://img.shields.io/badge/Illustrator-161B22?style=flat-square&logo=adobeillustrator&logoColor=white" />
+<img src="https://img.shields.io/badge/After_Effects-161B22?style=flat-square&logo=adobeaftereffects&logoColor=white" />
+<img src="https://img.shields.io/badge/Premiere_Pro-161B22?style=flat-square&logo=adobepremierepro&logoColor=white" />
+<img src="https://img.shields.io/badge/Blender-161B22?style=flat-square&logo=blender&logoColor=white" />
+<img src="https://img.shields.io/badge/Sora-161B22?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Veo_3-161B22?style=flat-square&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Whisk-161B22?style=flat-square&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Flow-161B22?style=flat-square&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/ElevenLabs-161B22?style=flat-square&logo=elevenlabs&logoColor=white" />
+
+### Development and AI workflow
+
+<img src="https://img.shields.io/badge/Git-161B22?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Cursor-161B22?style=flat-square&logo=cursor&logoColor=white" />
+<img src="https://img.shields.io/badge/Codex_CLI-161B22?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-161B22?style=flat-square&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Qwen_CLI-161B22?style=flat-square&logo=alibabacloud&logoColor=white" />
+<img src="https://img.shields.io/badge/NotebookLM-161B22?style=flat-square&logo=googlegemini&logoColor=white" />
 
 </div>
-
-<details>
-<summary><b>Full toolkit</b></summary>
-
-<br />
-
-**Languages**  
-HTML · CSS · JavaScript · TypeScript · Python · Rust · C# · Dart · SQL
-
-**Web, mobile, and extensions**  
-React · Next.js · Vite · Tailwind CSS · shadcn/ui · Radix UI · GSAP · Framer Motion · WXT · Chrome MV3 Extensions · React Native · Expo · Flutter
-
-**Backend and desktop**  
-Node.js · FastAPI · REST APIs · WebSockets · .NET 8 · Avalonia UI
-
-**AI, ML, and data**  
-PyTorch · NumPy · Matplotlib · Reinforcement Learning · PPO · RNNs · LSTMs · WhisperX · TTS pipelines · Ollama · LM Studio · Chatterbox TTS · Stable Diffusion · Manim
-
-**Databases, auth, media, and deployment**  
-PostgreSQL · MongoDB · Supabase · Neon · Clerk · Cloudinary · Vercel · Netlify
-
-**Design and creative production**  
-Figma · Photoshop · Illustrator · After Effects · Premiere Pro · Blender · Sora · Veo 3 · Whisk · Flow · ElevenLabs
-
-**Development and AI workflow**  
-Git · GitHub · Cursor · Codex CLI · Gemini · Qwen CLI · NotebookLM
-
-</details>
 
 ---
 
