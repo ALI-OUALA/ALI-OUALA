@@ -22,7 +22,7 @@ Applied mathematics student at the **National Higher School of Mathematics** in 
 
 I build **production web products**, **AI experiments**, **automation tools**, and **design-led prototypes**.
 
-**Currently building:** **NQRA** — a peer-to-peer tutoring marketplace where Algerian university students can learn from one another and earn by teaching what they know.
+**Currently building:** **ALvoix**, an algerian TTS/STT model (live model).
 
 <table>
   <tr>
