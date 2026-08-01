@@ -42,7 +42,7 @@ I build **production web products**, **AI experiments**, and **design-led protot
 ## In progress
 
 <p align="center">
-  <img src="./assets/in-progress.svg" alt="Project progress timeline: ALvoix 45%, Kemlha 60%" width="100%" />
+  <img src="./assets/in-progress.svg" alt="Project progress timeline: Inspra 30%, ALvoix 45%, Kemlha 60%" width="100%" />
 </p>
 
 ---
