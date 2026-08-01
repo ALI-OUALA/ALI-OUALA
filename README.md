@@ -41,22 +41,9 @@ I build **production web products**, **AI experiments**, and **design-led protot
 
 ## In progress
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <b>ALvoix</b><br />
-      Algerian speech tooling focused on TTS/STT, from data to model experiments.
-    </td>
-    <td width="33%" valign="top">
-      <b>MathSpace</b><br />
-      A study cockpit for NHSM students: resources, practice, and AI-assisted preparation.
-    </td>
-    <td width="33%" valign="top">
-      <b>Kemlha</b><br />
-      A marketplace for ready-made software, tools, and templates for builders and buyers in Algeria.
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/in-progress.svg" alt="Current focus allocation: ALvoix 40%, MathSpace 35%, Kemlha 25%" width="100%" />
+</p>
 
 ---
 
