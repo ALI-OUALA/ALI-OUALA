@@ -20,19 +20,40 @@
 
 Applied mathematics student at the **National Higher School of Mathematics** in Algeria.
 
-I build **production web products**, **AI experiments**, **automation tools**, and **design-led prototypes**.
+I build **production web products**, **AI experiments**, and **design-led prototypes**—with a particular interest in the point where mathematical thinking, local problems, and good interfaces meet.
 
-**Currently building:** **ALvoix**, an algerian TTS/STT model (live model).
+**Currently building:** **ALvoix**, an Algerian TTS/STT project.
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <b>Production</b><br />
-      Websites, landing pages, dashboards, SaaS interfaces, MVPs, academic portfolios, and client demos.
+      Websites, landing pages, dashboards, SaaS interfaces, MVPs, academic portfolios, and client demos that need to feel finished.
     </td>
     <td width="50%" valign="top">
       <b>Experiments</b><br />
       AI agents, reinforcement learning, speech-data pipelines, simulations, local models, and automation.
+    </td>
+  </tr>
+</table>
+
+---
+
+## In progress
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <b>ALvoix</b><br />
+      Algerian speech tooling focused on TTS/STT, from data to model experiments.
+    </td>
+    <td width="33%" valign="top">
+      <b>MathSpace</b><br />
+      A study cockpit for NHSM students: resources, practice, and AI-assisted preparation.
+    </td>
+    <td width="33%" valign="top">
+      <b>Kemlha</b><br />
+      A marketplace for ready-made software, tools, and templates for builders and buyers in Algeria.
     </td>
   </tr>
 </table>
@@ -73,17 +94,17 @@ Remote or Algeria-based.
   <tr>
     <td width="50%" valign="top">
       <b><a href="https://github.com/ALI-OUALA/agario-rl-experiment">Agario RL Experiment</a></b><br />
-      PPO training, FastAPI/WebSockets, and a browser-based simulator.
+      PPO agent training with FastAPI, WebSockets, and a browser-based simulator.
     </td>
     <td width="50%" valign="top">
       <b><a href="https://github.com/ALI-OUALA/inspra-extension">Inspra Extension</a></b><br />
-      Converts web inspiration into reusable AI-agent design skills.
+      Local-first Chrome extension that turns visual references into reusable AI-agent design skills.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <b><a href="https://github.com/ALI-OUALA/darija-tts-data-cleaning">Darija TTS Data Cleaning</a></b><br />
-      Algerian Darija alignment, segmentation, validation, and QC pipeline.
+      Speech-data pipeline for Algerian Darija: alignment, segmentation, validation, and QC.
     </td>
     <td width="50%" valign="top">
       <b><a href="https://github.com/ALI-OUALA/conways-game-of-life">Conway's Game of Life</a></b><br />
