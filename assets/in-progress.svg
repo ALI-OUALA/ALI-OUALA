@@ -1,41 +1,47 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 168" role="img" aria-labelledby="title desc">
-  <title id="title">Current focus allocation</title>
-  <desc id="desc">ALvoix 40 percent, MathSpace 35 percent, Kemlha 25 percent.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 244" role="img" aria-labelledby="title desc">
+  <title id="title">Project progress timeline</title>
+  <desc id="desc">ALvoix is 45 percent complete, MathSpace is 65 percent complete, and Kemlha is 60 percent complete.</desc>
 
-  <rect x="0.5" y="0.5" width="959" height="167" rx="16" fill="#0d1117" stroke="#30363d"/>
+  <rect x="0.5" y="0.5" width="959" height="243" rx="16" fill="#000000" stroke="#252525"/>
 
-  <text x="32" y="36" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="12" font-weight="600" letter-spacing="1.8">CURRENT FOCUS</text>
-  <text x="928" y="36" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="12" text-anchor="end">100%</text>
+  <text x="32" y="32" fill="#8a8a8a" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="11" font-weight="600" letter-spacing="1.7">PROJECT PROGRESS</text>
+  <text x="928" y="32" fill="#8a8a8a" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="11" text-anchor="end">0 — 100%</text>
 
-  <defs>
-    <clipPath id="bar">
-      <rect x="32" y="56" width="896" height="20" rx="10"/>
-    </clipPath>
-  </defs>
-
-  <rect x="32" y="56" width="896" height="20" rx="10" fill="#21262d"/>
-  <g clip-path="url(#bar)">
-    <rect x="32" y="56" width="358.4" height="20" fill="#a78bfa"/>
-    <rect x="390.4" y="56" width="313.6" height="20" fill="#60a5fa"/>
-    <rect x="704" y="56" width="224" height="20" fill="#fbbf24"/>
+  <g fill="#666666" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="10">
+    <text x="160" y="54">0%</text>
+    <text x="335" y="54" text-anchor="middle">25%</text>
+    <text x="510" y="54" text-anchor="middle">50%</text>
+    <text x="685" y="54" text-anchor="middle">75%</text>
+    <text x="860" y="54" text-anchor="end">100%</text>
   </g>
 
-  <line x1="390.4" y1="56" x2="390.4" y2="76" stroke="#0d1117" stroke-width="3"/>
-  <line x1="704" y1="56" x2="704" y2="76" stroke="#0d1117" stroke-width="3"/>
-
-  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="14">
-    <circle cx="32" cy="120" r="5" fill="#a78bfa"/>
-    <text x="48" y="125" fill="#f0f6fc" font-weight="600">ALvoix</text>
-    <text x="300" y="125" fill="#8b949e" text-anchor="end">40%</text>
-
-    <circle cx="340" cy="120" r="5" fill="#60a5fa"/>
-    <text x="356" y="125" fill="#f0f6fc" font-weight="600">MathSpace</text>
-    <text x="608" y="125" fill="#8b949e" text-anchor="end">35%</text>
-
-    <circle cx="648" cy="120" r="5" fill="#fbbf24"/>
-    <text x="664" y="125" fill="#f0f6fc" font-weight="600">Kemlha</text>
-    <text x="928" y="125" fill="#8b949e" text-anchor="end">25%</text>
+  <g stroke="#1f1f1f" stroke-width="1">
+    <line x1="160" y1="61" x2="160" y2="205"/>
+    <line x1="335" y1="61" x2="335" y2="205"/>
+    <line x1="510" y1="61" x2="510" y2="205"/>
+    <line x1="685" y1="61" x2="685" y2="205"/>
+    <line x1="860" y1="61" x2="860" y2="205"/>
   </g>
 
-  <text x="32" y="151" fill="#6e7681" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="11">A moving allocation of attention, not a completion score.</text>
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">
+    <text x="32" y="87" fill="#f5f5f5" font-size="14" font-weight="600">ALvoix</text>
+    <text x="928" y="87" fill="#a3a3a3" font-size="13" text-anchor="end">45%</text>
+    <line x1="160" y1="82" x2="860" y2="82" stroke="#2a2a2a" stroke-width="4" stroke-linecap="round"/>
+    <line x1="160" y1="82" x2="475" y2="82" stroke="#f5f5f5" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="475" cy="82" r="6" fill="#000000" stroke="#f5f5f5" stroke-width="2"/>
+
+    <text x="32" y="135" fill="#f5f5f5" font-size="14" font-weight="600">MathSpace</text>
+    <text x="928" y="135" fill="#a3a3a3" font-size="13" text-anchor="end">65%</text>
+    <line x1="160" y1="130" x2="860" y2="130" stroke="#2a2a2a" stroke-width="4" stroke-linecap="round"/>
+    <line x1="160" y1="130" x2="615" y2="130" stroke="#f5f5f5" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="615" cy="130" r="6" fill="#000000" stroke="#f5f5f5" stroke-width="2"/>
+
+    <text x="32" y="183" fill="#f5f5f5" font-size="14" font-weight="600">Kemlha</text>
+    <text x="928" y="183" fill="#a3a3a3" font-size="13" text-anchor="end">60%</text>
+    <line x1="160" y1="178" x2="860" y2="178" stroke="#2a2a2a" stroke-width="4" stroke-linecap="round"/>
+    <line x1="160" y1="178" x2="580" y2="178" stroke="#f5f5f5" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="580" cy="178" r="6" fill="#000000" stroke="#f5f5f5" stroke-width="2"/>
+  </g>
+
+  <text x="32" y="220" fill="#666666" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="11">Working estimates · each project has its own timeline.</text>
 </svg>
