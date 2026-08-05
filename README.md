@@ -54,51 +54,15 @@ Remote or Algeria-based.
 
 ---
 
-## Production websites
+## Work
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <b><a href="https://francoisberteloot.com">François Berteloot</a></b><br />
-      Academic website for a mathematics professor at the Institut de Mathématiques de Toulouse, with publications, CV, research material, multilingual content, and structured academic metadata.
-    </td>
-    <td width="33%" valign="top">
-      <b><a href="https://peter-stevenhagen.vercel.app">Peter Stevenhagen</a></b><br />
-      Editorial academic portfolio for a Leiden University number theorist, covering research, publications, international teaching, and institutional work.
-    </td>
-    <td width="33%" valign="top">
-      <b><a href="https://vroam.vercel.app">VROAM Hackathon</a></b><br />
-      Animated event experience for an Algerian telecom, mathematics, and AI hackathon focused on national roaming and student-built network solutions.
-    </td>
-  </tr>
-</table>
-
----
-
-## Technical work
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/ALI-OUALA/agario-rl-experiment">Agario RL Experiment</a></b><br />
-      PPO agent training with FastAPI, WebSockets, and a browser-based simulator.
-    </td>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/ALI-OUALA/inspra-extension">Inspra Extension</a></b><br />
-      Local-first Chrome extension that turns visual references into reusable AI-agent design skills.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/ALI-OUALA/darija-tts-data-cleaning">Darija TTS Data Cleaning</a></b><br />
-      Speech-data pipeline for Algerian Darija: alignment, segmentation, validation, and QC.
-    </td>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/ALI-OUALA/conways-game-of-life">Conway's Game of Life</a></b><br />
-      Rust desktop simulation with toroidal grid logic.
-    </td>
-  </tr>
-</table>
+- [François Berteloot](https://francoisberteloot.com) — Academic website.
+- [Peter Stevenhagen](https://peter-stevenhagen.vercel.app) — Academic portfolio.
+- [VROAM Hackathon](https://vroam.vercel.app) — Hackathon event experience.
+- [Agario RL Experiment](https://github.com/ALI-OUALA/agario-rl-experiment) — PPO browser simulation.
+- [Inspra Extension](https://github.com/ALI-OUALA/inspra-extension) — AI design-inspiration extension.
+- [Darija TTS Data Cleaning](https://github.com/ALI-OUALA/darija-tts-data-cleaning) — Darija speech-data pipeline.
+- [Conway's Game of Life](https://github.com/ALI-OUALA/conways-game-of-life) — Rust desktop simulation.
 
 ---
 
