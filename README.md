@@ -71,8 +71,3 @@ Remote or Algeria-based.
 
 ---
 
-## Main stack
-
-<div align="center">
-  <samp>TypeScript · React · Next.js · Python · FastAPI · PostgreSQL · React Native · Figma</samp>
-</div>
