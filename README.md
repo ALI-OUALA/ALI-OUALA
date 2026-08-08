@@ -61,7 +61,6 @@ Remote or Algeria-based.
 - [VROAM Hackathon](https://vroam.vercel.app) → Hackathon event experience.
 - [Emblém Portfolio](https://github.com/ALI-OUALA/emblem-portfolio) → Editorial portfolio with a CMS.
 - [ASCII Pic](https://github.com/ALI-OUALA/Ascii-pic) → Image-to-ASCII converter.
-- [VengeanceUI](https://github.com/ALI-OUALA/VengeanceUI) → Animated UI component library.
 - [Inspra Extension](https://github.com/ALI-OUALA/inspra-extension) → AI design-inspiration extension.
 - [DZ-Bench](https://github.com/ALI-OUALA/dz-bench) → Arabic-French document benchmark.
 - [DzDoc Engine](https://github.com/ALI-OUALA/dzdoc-engine) → Arabic-French document engine.
