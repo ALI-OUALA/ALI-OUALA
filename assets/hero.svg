@@ -1,144 +1,132 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-     width="1200" height="430" viewBox="0 0 1200 430"
-     role="img" aria-label="Ouala Eddine GitHub hero banner">
+     width="2048" height="730" viewBox="0 0 2048 730"
+     role="img" aria-label="Ouala Eddine hero banner">
   <title>Ouala Eddine</title>
   <defs>
     <style><![CDATA[
-      .bg { fill: #090c10; }
       .mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
       .sans { font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
-      .moonline { font: 14px ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; fill: currentColor; }
-      .whoami { font: 400 18px ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; fill: #d9dde2; letter-spacing: 0.08em; }
-      .title { font: 800 62px Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #f4f6f8; letter-spacing: 0.01em; }
-      .meta { font: 400 17px Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #c4c9cf; letter-spacing: 0.18em; }
-      .place { font: 400 17px Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #cfd3d8; letter-spacing: 0.20em; }
-      .motto { font: 400 14px Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #8d939b; letter-spacing: 0.28em; text-anchor: middle; }
-      .star { fill: #ffffff; opacity: .45; }
-      .orbit { fill: none; stroke: #c8ced6; stroke-opacity: .40; stroke-width: 1.1; stroke-dasharray: 1.2 7; stroke-linecap: round; }
-      .orbiter { fill: #f5f7fa; }
-      .moonWrap { animation: drift 15s ease-in-out infinite; transform-origin: 335px 220px; }
-      .moonGlow { animation: glowPulse 8s ease-in-out infinite; }
-      .cursor { animation: blink 1.1s steps(1,end) infinite; }
-      .sat { animation: satPulse 4.4s ease-in-out infinite; }
-      .titleBlock { animation: settle 1.3s cubic-bezier(.2,.7,.2,1) both; }
-      .mottoWrap { animation: settle 1.5s .12s cubic-bezier(.2,.7,.2,1) both; }
-      .star1 { animation: twinkle 5.2s ease-in-out infinite; }
-      .star2 { animation: twinkle 7.1s 1s ease-in-out infinite; }
-      .star3 { animation: twinkle 6.3s 2s ease-in-out infinite; }
-      .star4 { animation: twinkle 8.2s .5s ease-in-out infinite; }
-      .star5 { animation: twinkle 4.9s 1.4s ease-in-out infinite; }
-      .star6 { animation: twinkle 9s 2.4s ease-in-out infinite; }
+      .moonLine { font: 14px ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace; fill: currentColor; }
+      .who { font: 400 24px ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace; fill: #dde2e7; letter-spacing: .16em; }
+      .name { font: 800 109px Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #f3f5f7; letter-spacing: .01em; }
+      .place { font: 400 31px Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #d8dde2; letter-spacing: .18em; }
+      .motto { font: 400 19px Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #838a92; letter-spacing: .34em; text-anchor: middle; }
+      .star { fill: #fff; opacity: .72; }
+      .orbit { fill: none; stroke: #d8dde3; stroke-opacity: .28; stroke-width: 1.55; stroke-dasharray: 1.5 11; stroke-linecap: round; }
+      .cursor { fill: #eef2f6; animation: blink 1.15s steps(1,end) infinite; }
+      .tw1 { animation: twinkle 5s ease-in-out infinite; }
+      .tw2 { animation: twinkle 7.4s 1.3s ease-in-out infinite; }
+      .tw3 { animation: twinkle 6.2s 2.4s ease-in-out infinite; }
+      .tw4 { animation: twinkle 8.2s .7s ease-in-out infinite; }
+      .moonWrap { animation: floatMoon 16s ease-in-out infinite; transform-origin: 456px 365px; }
+      .satellite { fill: #f6f8fb; animation: satPulse 3.8s ease-in-out infinite; }
+      .mottoGroup { animation: fadeUp 1.1s .2s both; }
+      .textGroup { animation: fadeUp 1.1s both; }
       @keyframes blink { 0%,48% { opacity: 1; } 49%,100% { opacity: 0; } }
-      @keyframes twinkle { 0%,100% { opacity: .22; } 50% { opacity: .9; } }
-      @keyframes drift { 0%,100% { transform: translateY(0px); } 50% { transform: translateY(-4px); } }
-      @keyframes glowPulse { 0%,100% { opacity: .18; } 50% { opacity: .28; } }
-      @keyframes satPulse { 0%,100% { opacity: .95; } 50% { opacity: .55; } }
-      @keyframes settle { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+      @keyframes twinkle { 0%,100% { opacity: .2; } 50% { opacity: .92; } }
+      @keyframes floatMoon { 0%,100% { transform: translateY(0px); } 50% { transform: translateY(-4px); } }
+      @keyframes satPulse { 0%,100% { opacity: 1; } 50% { opacity: .55; } }
+      @keyframes fadeUp { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
       @media (prefers-reduced-motion: reduce) {
-        .moonWrap,.moonGlow,.cursor,.sat,.titleBlock,.mottoWrap,.star1,.star2,.star3,.star4,.star5,.star6 { animation: none !important; }
+        .cursor,.tw1,.tw2,.tw3,.tw4,.moonWrap,.satellite,.mottoGroup,.textGroup { animation: none !important; }
       }
     ]]></style>
 
-    <radialGradient id="bgRad" cx="67%" cy="47%" r="82%">
+    <radialGradient id="bgGrad" cx="52%" cy="54%" r="80%">
       <stop offset="0%" stop-color="#0b1015"/>
-      <stop offset="55%" stop-color="#090c10"/>
-      <stop offset="100%" stop-color="#05070a"/>
+      <stop offset="65%" stop-color="#080c11"/>
+      <stop offset="100%" stop-color="#05080c"/>
     </radialGradient>
 
-    <radialGradient id="moonFill" gradientUnits="userSpaceOnUse" cx="230" cy="165" r="275">
+    <radialGradient id="moonShade" gradientUnits="userSpaceOnUse" cx="305" cy="175" r="320">
       <stop offset="0%" stop-color="#ffffff"/>
-      <stop offset="24%" stop-color="#e3e7eb"/>
-      <stop offset="58%" stop-color="#8f96a0"/>
-      <stop offset="100%" stop-color="#353b42"/>
+      <stop offset="22%" stop-color="#eff2f4"/>
+      <stop offset="58%" stop-color="#9ba3ad"/>
+      <stop offset="100%" stop-color="#1d232a"/>
     </radialGradient>
 
-    <radialGradient id="moonHalo" gradientUnits="userSpaceOnUse" cx="285" cy="215" r="215">
-      <stop offset="0%" stop-color="#ffffff" stop-opacity=".10"/>
-      <stop offset="48%" stop-color="#ffffff" stop-opacity=".045"/>
+    <radialGradient id="halo" gradientUnits="userSpaceOnUse" cx="460" cy="355" r="275">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity=".07"/>
+      <stop offset="45%" stop-color="#ffffff" stop-opacity=".04"/>
       <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
     </radialGradient>
 
-    <filter id="softGlow" x="-35%" y="-35%" width="170%" height="170%">
-      <feGaussianBlur stdDeviation="12"/>
-    </filter>
-    <filter id="titleGlow" x="-15%" y="-40%" width="130%" height="200%">
-      <feGaussianBlur stdDeviation="10"/>
+    <filter id="blurHalo" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="18"/>
     </filter>
     <filter id="noise" x="0" y="0" width="100%" height="100%">
-      <feTurbulence type="fractalNoise" baseFrequency=".9" numOctaves="2" stitchTiles="stitch"/>
+      <feTurbulence type="fractalNoise" baseFrequency=".85" numOctaves="2" stitchTiles="stitch"/>
       <feColorMatrix type="saturate" values="0"/>
     </filter>
 
     <g id="moonArt" xml:space="preserve">
-      <text x="64" y="48.0" class="moonline"></text>
-      <text x="64" y="63.1" class="moonline">               ==+++++===-:</text>
-      <text x="64" y="78.2" class="moonline">            =+++**+**++++==-:.</text>
-      <text x="64" y="93.3" class="moonline">           +***##*****+*+=+=--:</text>
-      <text x="64" y="108.4" class="moonline">          +*#*######*#**+++=--:.</text>
-      <text x="64" y="123.5" class="moonline">         +*###%#*#%####*+++==--:.</text>
-      <text x="64" y="138.6" class="moonline">        +*#####+-+#####***+==--::.</text>
-      <text x="64" y="153.7" class="moonline">       ++*###%%#*#####*#*+++=--:...</text>
-      <text x="64" y="168.8" class="moonline">       +*####%##%####***=-=+==-:...</text>
-      <text x="64" y="183.9" class="moonline">       +*#*####%%####**#+=++==-::..</text>
-      <text x="64" y="199.0" class="moonline">       +***#%########***+++===-::..</text>
-      <text x="64" y="214.1" class="moonline">       +**#*=*%#####*#**++===-:::..</text>
-      <text x="64" y="229.2" class="moonline">       ++*#########****+++===-::...</text>
-      <text x="64" y="244.3" class="moonline">       ==+***###*+=+**+++===-:::...</text>
-      <text x="64" y="259.4" class="moonline">       -=+++***#+=:=+*++===--::....</text>
-      <text x="64" y="274.5" class="moonline">        ===++++*+===+++=-=:..:....</text>
-      <text x="64" y="289.6" class="moonline">         -=++=++++++====---::....</text>
-      <text x="64" y="304.7" class="moonline">          -=========-=----:.....</text>
-      <text x="64" y="319.8" class="moonline">           :--=--=----::::.....</text>
-      <text x="64" y="334.9" class="moonline">            .:::--::::........</text>
-      <text x="64" y="350.0" class="moonline">               ............</text>
+      <text x="64" y="48.0" class="moonLine"></text>
+      <text x="64" y="63.1" class="moonLine">               ==+++++===-:</text>
+      <text x="64" y="78.2" class="moonLine">            =+++**+**++++==-:.</text>
+      <text x="64" y="93.3" class="moonLine">           +***##*****+*+=+=--:</text>
+      <text x="64" y="108.4" class="moonLine">          +*#*######*#**+++=--:.</text>
+      <text x="64" y="123.5" class="moonLine">         +*###%#*#%####*+++==--:.</text>
+      <text x="64" y="138.6" class="moonLine">        +*#####+-+#####***+==--::.</text>
+      <text x="64" y="153.7" class="moonLine">       ++*###%%#*#####*#*+++=--:...</text>
+      <text x="64" y="168.8" class="moonLine">       +*####%##%####***=-=+==-:...</text>
+      <text x="64" y="183.9" class="moonLine">       +*#*####%%####**#+=++==-::..</text>
+      <text x="64" y="199.0" class="moonLine">       +***#%########***+++===-::..</text>
+      <text x="64" y="214.1" class="moonLine">       +**#*=*%#####*#**++===-:::..</text>
+      <text x="64" y="229.2" class="moonLine">       ++*#########****+++===-::...</text>
+      <text x="64" y="244.3" class="moonLine">       ==+***###*+=+**+++===-:::...</text>
+      <text x="64" y="259.4" class="moonLine">       -=+++***#+=:=+*++===--::....</text>
+      <text x="64" y="274.5" class="moonLine">        ===++++*+===+++=-=:..:....</text>
+      <text x="64" y="289.6" class="moonLine">         -=++=++++++====---::....</text>
+      <text x="64" y="304.7" class="moonLine">          -=========-=----:.....</text>
+      <text x="64" y="319.8" class="moonLine">           :--=--=----::::.....</text>
+      <text x="64" y="334.9" class="moonLine">            .:::--::::........</text>
+      <text x="64" y="350.0" class="moonLine">               ............</text>
     </g>
     <mask id="moonMask"><use xlink:href="#moonArt" href="#moonArt" color="#fff"/></mask>
 
-    <path id="orbitPath" d="M 93 236 C 134 309, 332 332, 468 287 C 590 247, 575 153, 451 124 C 319 93, 142 130, 93 236 Z"/>
+    <path id="orbitPath" d="M 111 424 C 160 546, 460 582, 691 507 C 850 455, 863 304, 743 242 C 613 176, 290 167, 111 424 Z"/>
   </defs>
 
-  <rect width="1200" height="430" fill="url(#bgRad)"/>
+  <rect width="2048" height="730" fill="url(#bgGrad)"/>
 
   <g aria-hidden="true">
-    <circle cx="92" cy="105" r="1.2" class="star star1"/>
-    <circle cx="122" cy="225" r="1.5" class="star star2"/>
-    <circle cx="137" cy="329" r="1.1" class="star star4"/>
-    <circle cx="382" cy="58" r="1.3" class="star star3"/>
-    <circle cx="516" cy="92" r="1.0" class="star star5"/>
-    <circle cx="518" cy="355" r="1.0" class="star star2"/>
-    <circle cx="676" cy="146" r="1.2" class="star star6"/>
-    <circle cx="868" cy="92" r="0.9" class="star star1"/>
-    <circle cx="1095" cy="120" r="1.2" class="star star4"/>
+    <circle cx="198" cy="180" r="2.15" class="star tw1"/>
+    <circle cx="126" cy="256" r="1.6" class="star tw2"/>
+    <circle cx="657" cy="171" r="1.9" class="star tw3"/>
+    <circle cx="770" cy="430" r="2.1" class="star tw4"/>
+    <circle cx="709" cy="516" r="2.0" class="star tw2"/>
+    <circle cx="648" cy="613" r="1.45" class="star tw3"/>
+    <circle cx="859" cy="261" r="1.0" class="star tw1" opacity=".35"/>
   </g>
 
   <g class="moonWrap">
-    <circle cx="285" cy="215" r="180" fill="url(#moonHalo)" class="moonGlow"/>
-    <use xlink:href="#moonArt" href="#moonArt" color="#cfd4da" opacity=".28" filter="url(#softGlow)"/>
-    <rect x="28" y="28" width="490" height="380" fill="url(#moonFill)" mask="url(#moonMask)"/>
-    <path d="M 93 236 C 134 309, 332 332, 468 287 C 590 247, 575 153, 451 124 C 319 93, 142 130, 93 236 Z"
-          class="orbit"/>
-    <circle r="5" class="orbiter sat">
-      <animateMotion dur="16s" repeatCount="indefinite" rotate="auto">
+    <circle cx="445" cy="362" r="290" fill="url(#halo)" filter="url(#blurHalo)" opacity=".8"/>
+    <g transform="translate(75,92) scale(1.62)">
+      <rect x="12" y="12" width="470" height="380" fill="url(#moonShade)" mask="url(#moonMask)"/>
+    </g>
+    <path d="M 111 424 C 160 546, 460 582, 691 507 C 850 455, 863 304, 743 242 C 613 176, 290 167, 111 424 Z" class="orbit"/>
+    <circle r="5.8" class="satellite">
+      <animateMotion dur="17s" repeatCount="indefinite" rotate="auto">
         <mpath xlink:href="#orbitPath" href="#orbitPath"/>
       </animateMotion>
     </circle>
   </g>
 
-  <g class="titleBlock">
-    <text x="635" y="162" class="whoami">$ whoami</text>
-    <rect x="783" y="142" width="12" height="24" rx="1" fill="#edf0f4" class="cursor"/>
+  <g class="textGroup">
+    <text x="957" y="266" class="who">$ whoami</text>
+    <rect x="1137" y="245" width="17" height="32" class="cursor"/>
 
-    <text x="635" y="258" class="title">OUALA EDDINE</text>
+    <text x="957" y="396" class="name">OUALA EDDINE</text>
 
-    <g transform="translate(634,292)">
-      <path d="M12 0C5.373 0 0 5.373 0 12c0 8.375 12 21 12 21s12-12.625 12-21C24 5.373 18.627 0 12 0Zm0 17a5 5 0 1 1 0-10a5 5 0 0 1 0 10Z" fill="#d7dde4"/>
-      <text x="42" y="21" class="place">ALGIERS, ALGERIA</text>
+    <g transform="translate(958,432)">
+      <path d="M18 0C8.06 0 0 8.06 0 18c0 12.56 18 31.5 18 31.5S36 30.56 36 18C36 8.06 27.94 0 18 0Zm0 25.2A7.2 7.2 0 1 1 18 10.8a7.2 7.2 0 0 1 0 14.4Z" fill="#e0e5ea"/>
+      <text x="59" y="27" class="place">ALGIERS, ALGERIA</text>
     </g>
   </g>
 
-  <g class="mottoWrap">
-    <text x="600" y="392" class="motto">DREAM TO REACH THE STARS  →  YOU WILL REACH THE MOON</text>
+  <g class="mottoGroup">
+    <text x="1024" y="671" class="motto">DREAM TO REACH THE STARS → YOU WILL REACH THE MOON</text>
   </g>
 
-  <rect width="1200" height="430" filter="url(#noise)" opacity=".028" style="mix-blend-mode:overlay"/>
+  <rect width="2048" height="730" filter="url(#noise)" opacity=".028" style="mix-blend-mode:overlay"/>
 </svg>
