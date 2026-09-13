@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" alt="Monochrome ASCII moon hero for Ouala Eddine → applied mathematics, AI, web, and design" width="100%" />
+<img src="./assets/hero.svg?v=4" alt="Monochrome ASCII moon hero for Ouala Eddine → applied mathematics, AI, web, and design" width="100%" />
 
 <br />
 
